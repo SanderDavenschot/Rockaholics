@@ -1,0 +1,67 @@
+body{
+	width:100%;
+	margin: 0;
+	background-size: 100%;
+}
+
+#bandlogo{
+	width: 700px;
+	margin-top: 0px;
+	padding: 0px;
+	margin-bottom: 0px;
+	padding-top: 80px;
+}
+
+a{
+	text-decoration: none;
+}
+ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   border: 1px solid #e7e7e7 ;
+   background-color: salmon ;
+   position: fixed;
+   width:100%;
+   font-family: verdana;
+}
+
+li {
+   float: left;
+}
+
+li a {
+   display: block;
+   color: #666;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+}
+
+#nav_links{
+width:33%;
+}
+#nav_middle{
+width:33%;
+}
+#nav_rechts{
+width:33%;
+}
+
+#bruiloft {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+#kremer {padding-bottom: 40px;
+}
+
+footer{
+   text-align: center;
+   color: #666;
+   font-family: verdana;
+   padding-bottom: 10px;
+   margin-top: 10%;
+   background-color: salmon;
+}
